@@ -97,7 +97,7 @@ int main(int argc, char *argv[]){
 			exit(EXIT_FAILURE);
             continue;
 		}
-		printf("Le socket reservé est : %d", sfd);
+		printf("Le socket reservé est : %d\n", sfd);
          
     }
     
